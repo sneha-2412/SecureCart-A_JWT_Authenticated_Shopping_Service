@@ -14,7 +14,6 @@ SecureCart is a backend e-commerce application built using **Java** and **Spring
 
 ### 📦 Product & Category Management
 - CRUD operations for products and categories
-- Image upload and mapping
 - One-to-Many and Many-to-One relationships
 
 ### 🛒 Shopping Cart
